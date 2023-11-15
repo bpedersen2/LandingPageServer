@@ -4,7 +4,7 @@ import { PublisheddataDetailsComponent } from "./publisheddata-details.component
 import { PublisheddataDetailsRoutingModule } from "./publisheddata-details-routing.module";
 import { MatCardModule } from "@angular/material/card";
 import { MatButtonModule } from "@angular/material/button";
-import { FlexLayoutModule } from "@angular/flex-layout";
+import { FlexLayoutModule } from '@ngbracket/ngx-layout';
 import { PipesModule } from "../shared/pipes/pipes.module";
 import { DatasourceService } from "../datasource.service";
 import { AppConfigModule } from "../app-config.module";
